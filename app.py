@@ -18,6 +18,7 @@ class App(ctk.CTk):
         self.env_path = os.path.join(os.getcwd(), ".env")
 
         # Configuração da Janela
+        self.title("Distribuidor Automático de Provas")
         self.geometry("800x650")
         self.automator = None  # Referência para o automator
 
