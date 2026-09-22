@@ -1,0 +1,142 @@
+Nº,a,CPF,SETOR,L1,L2,L3,L4,L5,L6,L7,L8,L9,L10,L11,L12,L13,L14,L15,L16,L17
+3,AGNALDO DA SILVA MORES,63668947287,NORTE,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌
+4,ALCILEIDE ALMEIDA DE ARAÚJO,73628433215,LESTE,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌
+5,ANA KEILA DE VALENÇA MARTINS,00324371292,SUDESTE,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌
+8,ANGELO CAMILO DO NASCIMENTO,57418837291,SUDESTE,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌
+12,ARIOMAR DE SOUSA SANTANA,34254498268,SUDESTE,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌
+16,CILMA CILENE DA SILVA NASCIMENTO,30981620230,SUDESTE,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌
+22,DAYSE ALBUQUERQUE DE ARAÚJO,79585680297,SUDESTE,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌,✅,❌,❌
+23,DÉBORA EDUARDA SANTOS DE FREITAS,04083738227,OESTE,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌
+27,DÍMINA BEATRIZ DA ROCHA PEREIRA,17798171770,OESTE,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌
+30,DORIVALDO CARDOSO DA ROCHA,66641071200,LESTE,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌,✅,✅,❌,❌,❌
+34,ELÂNDIA SOCORRO VLAXIO LOPES,32179944268,NORTE,✅,✅,✅,✅,✅,❌,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅
+40,ELZA DE SOUZA MORAES SILVA,46396985268,SUDESTE,✅,✅,✅,❌,✅,✅,✅,✅,✅,✅,❌,❌,✅,✅,❌,❌,❌
+43,ESDRAS FERREIRA DE VALENÇA MARTINS,40441733204,SUDESTE,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌,✅,❌
+44,EVERLAN ORAN BARROS DE MENEZES,72590262272,OESTE,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌,❌,❌
+50,FRANCISCO NATALINO FREITAS FERREIRA,67642551215,IRANDUBA,✅,✅,✅,✅,❌,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌
+56,IONELE ROSINDA GUIMARAES GÓES,57435553204,OESTE,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌,✅,✅,✅,✅,❌,❌,❌
+58,ISAIAS PERES DUARTE,34514759287,OESTE,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅
+66,JOSUÉ PEREIRA DA ROCHA,04701388238,LESTE,✅,✅,✅,✅,✅,✅,✅,✅,❌,✅,✅,❌,✅,❌,❌,❌,❌
+67,JUCILANDE MORAES VILAÇA,61350540234,OESTE,✅,✅,✅,✅,✅,❌,✅,✅,✅,✅,✅,✅,✅,❌,❌,❌,✅
+68,JUCIMAR GUEDES DE ARAÚJO,58027971268,OESTE,✅,✅,✅,✅,✅,❌,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌
+69,JULIANA LIMA GUERREIRO,00084870222,OESTE,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌,❌
+70,JULIANA PEREIRA DA ROCHA,63691639291,LESTE,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌,✅,❌,❌,✅,❌
+71,KEILA CRISTINA DE SOUZA FREITAS,33586934220,OESTE,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌,✅,❌
+77,LUCAS EMANUEL DA SILVA NASCIMENTO,06154078200,SUDESTE,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌
+78,LUCIANA GOMES SANTOS,86049453268,SUDESTE,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌
+84,MARCELO LIMA DA SILVA,66989167220,SUDESTE,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌
+87,MARCOS ANJOS DA SILVA,61450197272,SUDESTE,✅,✅,✅,❌,✅,❌,✅,✅,✅,✅,❌,❌,✅,✅,❌,❌,❌
+93,MARIO GUERREIRO RODRIGUES,59987855253,OESTE,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌
+99,MIRIA GOMES RIBEIRO RITA,44100582234,OESTE,❌,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌,❌,❌,❌
+109,RAIMUNDA COSTA DO NASCIMENTO,43905340259,SUDESTE,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌
+113,RIBAMAR RAMOS DE OLIVEIRA,74200836220,SUDESTE,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌
+116,ROBERT LOGAN DUARTE SOBRINHO,02637285281,OESTE,❌,❌,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌
+117,ROSA JULIETH DUENAS OJEDA,70169909239,OESTE,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌
+125,TACIANO SAMPAIO FILHO,27501850259,OESTE,✅,✅,❌,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅
+127,VALCILEN SANTOS DE LIMA,64684822249,OESTE,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌
+133,VITOR JÔNATAS PAIVA BARBOSA,03350535216,OESTE,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌,❌,❌,❌
+138,WILIANE LOPES DA SILVA,66852277291,SUDESTE,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌
+1,ABEDELAK GONÇALVES NUNES,,,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+2,ADRIANO RODRIGUES DE ARAUJO,43918050220,OESTE,❌,✅,✅,✅,✅,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+6,ANA LETÍCIA FERNANDES CORRÊA,,NORTE,✅,✅,✅,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+7,ANDREZA MOTA DE SOUSA BALBY,,,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+9,ANNA KAROLINA DE SOUZA FREITAS,02702561217,OESTE,✅,✅,✅,✅,✅,✅,❌,✅,✅,✅,❌,❌,❌,❌,❌,❌,❌
+10,ANNE CAROLINE VERAS DUARTE,,,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+11,ANNE YOUSEBECCA LOUIS,,,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+13,BENEDITO SIQUEIRA DE FARIAS,,,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+14,CHRISTIELLEN LIMA RODRUGUES,,OESTE,✅,✅,✅,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+15,CILENA,,OESTE,❌,❌,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+17,CLÁUDIO COELHO ALVES,,,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+18,CLEDSON MESQUITA AZEVEDO,,,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+19,DAIANA DA SILVA NEVES,,,✅,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+20,DAIANE SANTOS DOS SANTOS,00442565232,LESTE,✅,✅,✅,❌,✅,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+21,DAVID NOUGUEIRA PINHEIRO RODRIGUES,04608404288,SUDESTE,✅,✅,✅,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+24,DÉBORA KALYNE LIMA DOS ANJOS,,,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+25,DEGIVALDO DA SILVA MIRANDA,00442882203,IRANDUBA,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌,❌,❌,❌,❌
+26,DEMETRIUS PIETER PANTOJA,41825942234,IRANDUBA,✅,✅,✅,✅,✅,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+28,DIOLENO RODRIGUES AFONSO,,,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+29,DIONE BANDEIRA MONTEIRO,94661537220,,✅,✅,✅,❌,❌,❌,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+31,EDILENO AZEVEDO DE LIMA,,,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+32,EDINALVA SARMENTO NATALI,,,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+33,EDMAR GENTIL FRANCO,05404517204,OESTE,✅,✅,✅,✅,✅,❌,✅,✅,✅,✅,✅,✅,❌,✅,❌,❌,❌
+35,ELCIMAR SOUZA DE LIMA,,NORTE,✅,✅,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+36,ELIANA MAIA PINHEIRO,,,❌,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+37,ELIMAR GOMES DOS SANTOS,,,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+38,ELIZABETH BARBOSA NOUGUEIRA,,LESTE,✅,✅,✅,❌,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+39,ELTON BAHIA DE BRITO CUNHA,,OESTE,✅,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+41,ENEIAS PEREIRA NASCIMENTO,,,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+42,ERICK SOARES DO NASCIMENTO,,,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+45,EVERTON FERNANDES DA SILVA,,OESTE,✅,✅,✅,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+46,FABIANA COELHO SOARES,,NORTE,✅,✅,✅,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+47,FRANCISCA ARINETE DIAS PEREIRA,,,✅,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+48,FRANCISCA BRAGA RAMOS,,OESTE,✅,✅,✅,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+49,FRANCISCO DE ASSIS FERREIRA DE CARVALHO FILHO,,,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+51,GERONILDO LACERDA BOTELHO,,,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+52,GLORIANE COELHO FRANCO DUARTE,,OESTE,✅,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+53,HERISON BALBY GUIMARÃES,,,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+54,IAGO FERREIRA RODRIGUES,,,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+55,ILCELENE DOS SANTOS SILVA,,,❌,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+57,IRLA DA SILVA BESSA,31502008220,OESTE,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌,❌,❌
+59,JACÓ ARAÚJO DA SILVA,27567338220,OESTE,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌,❌,❌
+60,JACYARA DA ROCHA COSTA,,,✅,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+61,JAMILY SILVA DE FREITAS,,,✅,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+62,JAQUELINE LIMA DOS SANTOS,,,❌,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+63,JOÃO QUEIROZ NUNES,,,✅,✅,✅,❌,❌,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+64,JOELMA DOS SANTOS TABOSA,,,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+65,JOSIAS DA SILVA CRESCENCIO,,,✅,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+72,KLILSON FERNANDES MACHADO,,,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+73,LANIS SARMENTO NOGUEIRA,,SUDESTE,✅,✅,✅,✅,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+74,LÁZARO AUGUSTO REIS PIMENTEL GÓES,,OESTE,✅,✅,✅,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+75,LEIDIANE CASTELO ORAN BARROS DE MENEZES,,OESTE,✅,✅,✅,✅,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+76,LOUISE GUIMARÃES LIMA,,,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+79,LUCIANA MAIA DOS NASCIMENTO,,,✅,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+80,LUIZ CARLOS SILVA MEDEIROS,,,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+81,MAIZA CORRÊA LIMA,,,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+82,MANOEL VITOR SIQUEIRA GOMES,,,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+83,MARCELO ANTÔNIO DA SILVA DUARTE,60015535215,NORTE,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌,✅,❌,✅,❌
+85,MARCELO LISBOA FERNANDES,,NORTE,✅,✅,✅,✅,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+86,MARCIONILIA MAQUINÉ AIRES,,,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+88,MARIA DE JESUS DE SOUZA LIRA,,,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+89,MARIA FRANCISCA SERGIO LIMA,,,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+90,MARIA JOSÉ DE SOUZA PORTUGAL,,,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+91,MARIA NADMA RODRIGUES CUNHA,,OESTE,✅,✅,✅,❌,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+92,MARIA SANTANA DA SILVA RODRIGUES,,,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+94,MÁRIO JORGE MOURA LOPES,,,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+95,MARLÚCIA DAVILA BARROS,,,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+96,MAURIANE DOS SANTOS MIRANDA,70072578289,IRANDUBA,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌,❌,❌,✅,❌
+97,MIGUEL DE OLIVEIRA CRUZ,,,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+98,MILEIDE CARDENAS DE SOUZA,,,❌,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+100,MIRIAN BRITO DE ANDRADE,,,✅,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+101,MÔNICA LIMA DA CONCEIÇÃO,,,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+102,NADSON SAVINO DE ANDRADE,,,✅,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+103,NATANAEL ROSA RITA,34756990282,OESTE,❌,✅,✅,✅,✅,❌,✅,✅,✅,✅,❌,❌,❌,❌,❌,❌,❌
+104,NATHALYA GHABRIELY LIMA BENTO,,OESTE,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+105,NECI GOMES DE SOUZA ARAÚJO,,,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+106,NILTON ARAÚJO DA SILVA,,,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+107,PATRÍCIA DA SILVA DE FREITAS ARAÚJO,,,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+108,PATRICIA ROCHA DOS SANTOS,,IRANDUBA,✅,✅,✅,✅,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+110,RAIMUNDA CRISTINA CASTRO DE BRITO,,,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+111,RAIMUNDO NONATO GOMES LIMA,,,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+112,RANA JÉSSICA NOBRE VIANA,,,✅,✅,✅,❌,❌,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+114,RICHARD WOLFRAM GUACARAN RODRIGUEZ,,IRANDUBA,✅,✅,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+115,RICKY COSTA DE SOUZA,,,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+118,ROSILENE MARCELINO DE OLIVEIRA,,OESTE,✅,✅,✅,✅,❌,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+119,ROSYLENE ORAN BARROS DE MENEZES,,OESTE,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+120,SANDRA BENTES,,,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+121,SANDRA NOGUEIRA PINHEIRO NUNES,,SUDESTE,✅,✅,✅,✅,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+122,SEBASTIÃO ANTÔNIO DE AQUINO ROCHA,,,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+123,SEBASTIÃO RODRIGUES DA SILVA,,,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+124,SUELLEN CRISTINA DE OLIVEIRA BRITO,,,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+126,THAYANE DOS SANTOS TABOSA NUNES,,SUDESTE,✅,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+128,VALDETE SABÓIA DE MENDONÇA,,,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+129,VALDIR COSTA LARANGEIRA,,,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+130,VALÉRIA PERIS ALVES,,,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+131,VANDERLEI BEZERRA DA SILVA,,,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+132,VANDREY RIBEIRO ARAÚJO,03019327270,OESTE,✅,✅,✅,❌,❌,❌,❌,❌,❌,❌,✅,✅,❌,❌,❌,❌,❌
+134,VITÓRIA GAMA CORDEIRO,70576617202,LESTE,✅,✅,✅,✅,✅,✅,✅,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌
+135,WALDINEA CRUZ DA GRAÇA,,,✅,✅,❌,❌,❌,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+136,WALMIRA BATISTA MARINHO,,,✅,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+137,WERBETH MONTEIRO COSTA,,,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+139,WILLYAN DOS SANTOS LIMA,,,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+140,WILSON LIMA PONTES,,,✅,✅,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌,❌
+141,YTALO SAYMO BARBOSA ALMEIDA,88956849234,OESTE,✅,✅,✅,✅,✅,✅,❌,✅,✅,✅,❌,❌,❌,❌,❌,❌,❌

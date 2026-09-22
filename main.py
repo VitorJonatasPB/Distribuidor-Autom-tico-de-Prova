@@ -72,6 +72,10 @@ class IbadAutomator:
             else:
                 df = pd.read_excel(caminho_ou_url)
 
+            # Tratamento extra: remove espaços invisíveis nos nomes das colunas e no filtro
+            df.columns = df.columns.str.strip()
+            coluna_filtro = str(coluna_filtro).strip()
+
             # 3. Filtro Dinâmico
             if coluna_filtro in df.columns:
                 self.log(f"Filtrando: {coluna_filtro} == {valor_filtro}")
